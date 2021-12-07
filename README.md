@@ -1,4 +1,4 @@
-# Spencer Damon
+# Hello, World! I'm Spencer Damon
 Hi everyone, I am pretty new to the field, but have been putting in some serious hours
 learning to code, and wokrking on starting a career as a Junior Android Developer.
 My interests are in Android Dev, Software Engineering, as I love problem solving with Kotlin!
